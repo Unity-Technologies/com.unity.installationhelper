@@ -1,0 +1,29 @@
+{
+  "name": "com.unity.installationhelper",
+  "version": "1.0.0",
+  "description": "a shared library to manage automated software installation by unity Electron based apps",
+  "main": "index.js",
+  "dependencies": {
+    "@types/node": "^14.0.23",
+    "typescript": "^3.9.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unity-Technologies/com.unity.installationhelper.git"
+  },
+  "keywords": [
+    "installation",
+    "electron",
+    "unity"
+  ],
+  "author": "ahmad@unity3d.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Unity-Technologies/com.unity.installationhelper/issues"
+  },
+  "homepage": "https://github.com/Unity-Technologies/com.unity.installationhelper#readme"
+}
